@@ -8,7 +8,7 @@ module.exports = {
   entities: {
     loan: {
       entity: Loan,
-      collection: 'loans'd
+      collection: 'loans'
     }
   }
 }
